@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @achmadrozie, I have been working since 2019 in Data Analyst and Data Scientist related field.
-- 👀 I’m interested in Analytics Engineering and Data Engineering field
+- 🏗️ Analytics Engineering: dbt models, tests, semantic, context layer → zomato-ai-analytics-pipeline, dbt-refactor-sql
+- 🤖 AI-Product Analytics: eval dan experimentation untuk fitur AI → zomato-ai-data-layer-experiment
 - 📫 How to reach me : ach.nafilarozie@gmail.com
 
 <!---
