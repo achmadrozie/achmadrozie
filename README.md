@@ -1,5 +1,5 @@
-- 🏗️ Analytics Engineering: dbt models, tests, semantic, context layer → zomato-ai-analytics-pipeline, dbt-refactor-sql
-- 🤖 AI-Product Analytics: eval dan experimentation untuk fitur AI → zomato-ai-data-layer-experiment
+- 🏗️ **Analytics Engineering**: dbt models, tests, semantic, context layer → zomato-ai-analytics-pipeline, dbt-refactor-sql
+- 🤖 **AI-Product Analytics**: eval and experimentation for AI Fitures → zomato-ai-data-layer-experiment
 - 📫 How to reach me : ach.nafilarozie@gmail.com
 
 <!---
